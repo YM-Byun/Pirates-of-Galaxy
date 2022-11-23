@@ -2209,7 +2209,7 @@ MonoBehaviour:
   Health: {fileID: 3323468511722094673}
   HealthBarImage: {fileID: 4989089578373631989}
   HealthBarPivot: {fileID: 1631326827379489699}
-  HideFullHealthBar: 0
+  HideFullHealthBar: 1
 --- !u!64 &5138580646819692172
 MeshCollider:
   m_ObjectHideFlags: 0
